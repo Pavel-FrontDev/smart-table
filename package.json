@@ -9,6 +9,19 @@
     "preview": "vite preview"
   },
   "devDependencies": {
-    "vite": "^6.0.5"
-  }
+    "vite": "^6.4.3"
+  },
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pavel-FrontDev/smart-table.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pavel-FrontDev/smart-table/issues"
+  },
+  "homepage": "https://github.com/Pavel-FrontDev/smart-table#readme"
 }
